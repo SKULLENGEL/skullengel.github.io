@@ -1,0 +1,48 @@
+body {
+    background-color: steelblue;
+    font-family: "3D isometric";
+}
+
+.centered {
+    text-align: center;
+    background-color: #393E41
+}
+
+.PROFILE-PIC {
+    align-items: center;
+    border-radius: 5%;
+    border-color: rgba(255, 217, 0, 0.619);
+    border-width: 10px;
+    border-style: groove;
+}
+
+.intro {
+    text-wrap: center;
+    color: rgba(255, 217, 0, 0.619);
+}
+
+h2 {
+    border-color: blue;
+    border-style: dotted;
+    background: aqua;
+}
+
+p {
+    text-align: justify;
+    text-decoration-line: underline;
+    background-origin: padding-box 20px, 10px;
+}
+
+UL {
+    background-repeat: no-repeat;
+    image: 20px;
+}
+
+.centered {
+    text-align: center;
+    border-radius: 50px;
+}
+
+.linkedin-image {
+    border-radius: 75%;
+}
