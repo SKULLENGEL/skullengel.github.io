@@ -1,6 +1,6 @@
 body {
     background-color: steelblue;
-    font-family: "Postamt"; text-color: #FF0080;
+    font-family: "Postamt";
 }
 
 .centered {
@@ -31,6 +31,7 @@ p {
     text-align: justify;
     text-decoration-line: underline;
     background-origin: padding-box 20px, 10px;
+    color: #FF0080;
 }
 
 UL {
@@ -47,6 +48,7 @@ UL {
     border-radius: 75%;
 
 }
+
 
 
 
