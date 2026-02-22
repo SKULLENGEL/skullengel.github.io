@@ -39,8 +39,8 @@ UL {
 }
 
 .centered {
-    color: #FF0080;
     text-align: center;
+    color: pink;
     border-radius: 50px;
 }
 
@@ -48,6 +48,7 @@ UL {
     border-radius: 75%;
 
 }
+
 
 
 
