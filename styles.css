@@ -40,7 +40,7 @@ UL {
 
 .centered {
     text-align: center;
-    color: #FF0080;
+    text-color: #FF0080;
     border-radius: 50px;
 }
 
@@ -48,6 +48,7 @@ UL {
     border-radius: 75%;
 
 }
+
 
 
 
