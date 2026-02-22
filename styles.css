@@ -1,6 +1,6 @@
 body {
     background-color: pink;
-    font-family: "3D isometric";
+    font-family: "3D isometric"; font-style: solid;
 }
 
 .centered {
@@ -47,6 +47,7 @@ UL {
     border-radius: 75%;
 
 }
+
 
 
 
