@@ -40,14 +40,15 @@ UL {
 
 .centered {
     text-align: center;
+    color: #FF0080;
     border-radius: 50px;
 }
 
 .linkedin-image {
-    color: #FF0080;
     border-radius: 75%;
 
 }
+
 
 
 
