@@ -29,9 +29,10 @@ h2 {
 
 p {
     text-align: justify;
-    text-decoration-line: underline;
-    background-origin: padding-box 20px, 10px;
     color: #FF0080;
+    text-decoration-line: underline;
+    text-decoration-color: #FF0080;
+    background-origin: padding-box 20px, 10px;
 }
 
 UL {
@@ -48,6 +49,7 @@ UL {
     border-radius: 75%;
 
 }
+
 
 
 
