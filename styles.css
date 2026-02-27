@@ -28,10 +28,9 @@ h2 {
 }
 
 p {
-    border-style: solid;
     text-align: justify: center;
     text-decoration-line: underline;
-    background-origin: padding-box 20px, 10px;
+    background-origin: padding-box 20px, 20px;
 }
 
 UL {
@@ -49,6 +48,7 @@ UL {
     border-radius: 75%;
 
 }
+
 
 
 
