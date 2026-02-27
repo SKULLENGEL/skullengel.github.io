@@ -28,7 +28,7 @@ h2 {
 }
 
 p {
-    text-align: justified: center;
+    text-align: justify: center;
     text-decoration-line: underline;
     background-origin: padding-box 20px, 10px;
 }
@@ -48,6 +48,7 @@ UL {
     border-radius: 75%;
 
 }
+
 
 
 
