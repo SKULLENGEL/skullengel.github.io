@@ -30,7 +30,8 @@ h2 {
 p {
     text-align: justify: center;
     text-decoration-line: underline;
-    background-origin: padding-box 20px, 20px, 20px, 20px;
+    text-box-style: solid;
+    background-origin: padding-box: 20px, 10px;
 }
 
 UL {
@@ -48,6 +49,7 @@ UL {
     border-radius: 75%;
 
 }
+
 
 
 
